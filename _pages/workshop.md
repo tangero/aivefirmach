@@ -18,3 +18,5 @@ Před samotným workshopem je potřeba projít si detaily vaší firmy. Zpravidl
 Všechny části jsou přizpůsobené hloubce znalostí účastníků workshopu a jejich potřebám. Můžeme si povídat stejně tak o tom, jak správně zadat optimální "prompt" do ChatGPT, jako můžeme zkusit na míru nakonfigurovat LLAMA engine nebo ohnout existující služby analýzy dokumentů tak, aby uměly napovídat vašim lidem, co máte napsáno ve smlouvách. 
 
 Výsledkem workshopu by měla být SWOT analýza AI pro vaši firmu a lepší představa o tom, na co může firma na domácím a především na zahraničním trhu narážet a naopak, co by ji mohlo posílit.  
+
+__Mimochodem, chcete vědět, proč tento web vypadá, jak vypadá? [Vysvětlení je v AI!](/proc)__
