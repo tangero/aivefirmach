@@ -19,4 +19,4 @@ Toto rozpětí pozic mi umožňuje vidět velmi široké přesahy jak mezi vývo
 
 Moji nejnovější knihu věnovanou moderním technologiím nazvanou *Mýty a naděje digitálního světa* si můžete [koupit online](https://www.melvil.cz/kniha-myty-a-nadeje-digitalniho-sveta/) i v knihkupectví. 
 
-Pravidelně vydávám (Patrickův newsletter)[https://zandl.substack.com/] jako souhrn toho důležitého, co se ve světě technologií děje. Můžete si jej zdarma objednat. 
+Pravidelně vydávám [Patrickův newsletter](https://zandl.substack.com/) jako souhrn toho důležitého, co se ve světě technologií děje. Můžete si jej zdarma objednat. 
