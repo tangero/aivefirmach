@@ -4,26 +4,19 @@ title: O mně
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## Jmenuji se Patrick Zandl 
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+- narozen 26.8.1974 v západoněmeckém Mnichově
+- další životopisná data najdete na [Wikipedii](https://cs.wikipedia.org/wiki/Patrick_Zandl)
+- profesní životopis na [Linkedin](https://cz.linkedin.com/in/patrickzandl)
+- čtvrt století patřím mezi přední popularizátory moderních technologií
+- v roce 1996 jsem zakládal a dlouhá léta spoluvlastnil technické zpravodajské servery (Mobil server, Technet a jiné), dnes sdružené v rodině serverů iDNES
+- podnikal jsem v moderních technologiích, pracoval ve vedení vývojových i výrobních firem
+- o moderních technologiích jsem napsal desítku knih, tisíce článků, proškolil stovky firem
+- dnes pracuji v samosprávě jako místostarosta města. 
 
-## Features
+Toto rozpětí pozic mi umožňuje vidět velmi široké přesahy jak mezi vývojem produktů, tak jejich praktickou výrobou a případné soužití s legislativou a se státní správou.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Moji nejnovější knihu věnovanou moderním technologiím nazvanou *Mýty a naděje digitálního světa* si můžete [koupit online](https://www.melvil.cz/kniha-myty-a-nadeje-digitalniho-sveta/) i v knihkupectví. 
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Pravidelně vydávám (Patrickův newsletter)[https://zandl.substack.com/] jako souhrn toho důležitého, co se ve světě technologií děje. Můžete si jej zdarma objednat. 
