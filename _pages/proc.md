@@ -4,8 +4,6 @@ title: Proč to tu vypadá takhle
 permalink: /proc/
 ---
 
-## Proč to tu vypadá takhle?
-
 Možná se ptáte, proč web o AI vypadá takhle jednoduše? Proč tu nejsou dynamické efekty, vyskakující menu, dostatek sladěných pastelových barev a jiné zábavné prvky? 
 
 - zeptal jsem se AI, co by doporučovala pro takový web

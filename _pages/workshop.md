@@ -19,4 +19,4 @@ Všechny části jsou přizpůsobené hloubce znalostí účastníků workshopu 
 
 Výsledkem workshopu by měla být SWOT analýza AI pro vaši firmu a lepší představa o tom, na co může firma na domácím a především na zahraničním trhu narážet a naopak, co by ji mohlo posílit.  
 
-__Mimochodem, chcete vědět, proč tento web vypadá, jak vypadá? [Vysvětlení je v AI!](/proc)__
+*Mimochodem, chcete vědět, proč tento web vypadá, jak vypadá? [Vysvětlení je v AI!](/proc/)*
