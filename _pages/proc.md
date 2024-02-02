@@ -25,7 +25,6 @@ Proč AI vytvořila ilustrační fotku?
 - AI z toho důvodu navrhla tento snímek
 - kvůli omezením modelu Dall-e nebylo možné snadno vedoucího workshopu udělat mírně tlustšího, aby snímek více odpovídal realitě - o podstatě těchto omezení si můžeme popovídat na workshopu...
 
-Image:
 ![A to je ten inkriminovaný snímek](/images/ai-workshop_1792x1024.jpg)
 
 Na jeden kurs to takto podle AI stačí. Nesouhlasíte? Můžeme si o tom promluvit i s AI :)
