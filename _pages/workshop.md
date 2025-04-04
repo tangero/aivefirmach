@@ -15,6 +15,8 @@ Před samotným workshopem je potřeba projít si detaily vaší firmy. Zpravidl
 - *ve třetí části* už se podíváme přímo na to, jaká řešení se používají ve vašem segmentu trhu
 - a v nejvíce *interaktivní čtvrté části* se pokusíme zamyslet společně nad tím, kde jsou příležitosti a kde hrozby AI pro vaši společnost a váš tržní segment
 
+Délka trvání workshopu jsou cca 3-4 hodiny, počítejte prostě půlden a dvě krátké přestávky, aby se lidé občerstvili a protáhli. 
+
 Všechny části jsou přizpůsobené hloubce znalostí účastníků workshopu a jejich potřebám. Můžeme si povídat stejně tak o tom, jak správně zadat optimální "prompt" do ChatGPT, jako můžeme zkusit na míru nakonfigurovat LLAMA engine nebo ohnout existující služby analýzy dokumentů tak, aby uměly napovídat vašim lidem, co máte napsáno ve smlouvách. 
 
 Výsledkem workshopu by měla být SWOT analýza AI pro vaši firmu a lepší představa o tom, na co může firma na domácím a především na zahraničním trhu narážet a naopak, co by ji mohlo posílit.  

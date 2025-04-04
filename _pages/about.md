@@ -11,9 +11,9 @@ permalink: /about/
 - profesní životopis na [Linkedin](https://cz.linkedin.com/in/patrickzandl)
 - čtvrt století patřím mezi přední popularizátory moderních technologií
 - v roce 1996 jsem zakládal a dlouhá léta spoluvlastnil technické zpravodajské servery (Mobil server, Technet a jiné), dnes sdružené v rodině serverů iDNES
-- podnikal jsem v moderních technologiích, pracoval ve vedení vývojových i výrobních firem
+- podnikal jsem v moderních technologiích, pracoval ve vedení vývojových i výrobních firem a také jako místostarosta
 - o moderních technologiích jsem napsal desítku knih, tisíce článků, proškolil stovky firem
-- dnes pracuji v samosprávě jako místostarosta města. 
+- dnes pracuji na AI projektech svých zákazníků
 
 Toto rozpětí pozic mi umožňuje vidět velmi široké přesahy jak mezi vývojem produktů, tak jejich praktickou výrobou a případné soužití s legislativou a se státní správou.
 
