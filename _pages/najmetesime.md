@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Najměte si mě
-permalink: /najmetesime
+permalink: /najmetesime/
+---
 
 # Konzultace v AI?
 
