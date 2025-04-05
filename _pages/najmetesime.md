@@ -4,7 +4,7 @@ title: Najměte si mě
 permalink: /najmetesime/
 ---
 
-# Konzultace v AI?
+# Práce a konzultace v AI?
 
 Někdy nevíte, kam vás zavedou myšlenky, ale potřebujete průvodce na takovou cestu. Promluvit si o možnostech, validovat záměr, rozpracovat projekt v oblasti AI? 
 
