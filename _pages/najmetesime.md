@@ -4,7 +4,7 @@ title: Najměte si mě
 permalink: /najmetesime/
 ---
 
-# Práce a konzultace v AI?
+# Konzultace a projekty v AI?
 
 Někdy nevíte, kam vás zavedou myšlenky, ale potřebujete průvodce na takovou cestu. Promluvit si o možnostech, validovat záměr, rozpracovat projekt v oblasti AI? 
 
@@ -21,5 +21,6 @@ Není to trochu moc?
 - je pravděpodobné, že za tuto částku se podaří najít odpověď na vaši otázku
 - přičemž může být odpovědí i to, že otázka je mimo naše možnosti a realitu
 
+Projektové reference: CZ.NIC, z.s.p.o., Průša Research a.s.
 
 Pokud vás to zaujalo, stačí napsat na zandl@marigold.cz nebo psát/zavolat na 📞777677077 a dohodneme podrobnosti.
