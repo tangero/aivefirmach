@@ -4,7 +4,6 @@ title: Workshop Připraveni na AI
 permalink: /pripraveni-na-ai/
 ---
 
-## Workshop: Připraveni na AI
 
 Workshop se **zaměřuje** na zvyšování připravenosti firem na změny. Jaké změny? To ne vždy víme, ale rozhodně tušíme: pokračující digitalizace, AI, dost možná udržitelnost, schopnost dynamicky reagovat na okolní nestabilitu. 
 
@@ -13,8 +12,6 @@ Výsledkem workshopu nebude zázrak, kdy AI udělá všechno. Bude jím zvýšen
 Tento workshop je novinka, se kterou přicházíme na letní měsíce, kdy je ve firmách volněji a je prostor věnovat se přemýšlení o změnách. Workshop lze zatím objednávat v termínech 1.6.-21.9.2025 a probíhá v prostorech vaší společnosti. 
 
 ### Jak si sladit očekávání od workshopu
-
-Nejčastější problém je, že firmy poptávají zázrak. 
 
 Nejprve si musíme sladit očekávání. Pokud vám někdo z vedení nakázal, že vaši firmu má podle článků v tisku zachránit implementace AI a máte na to najít školení, tak tohle školení vás nezachrání. Stejně tak žádné školení o AI vás nezachrání.
 
@@ -40,11 +37,11 @@ Sada doporučení, co zlepšit ve vaší firmě tak, aby byla připravena na poz
 ### Jak je workshop strukturovaný
 
 
-** Jde o dvě půldenní setkání **
+**Jde o dvě půldenní setkání**
 - v prvé řadě se pobavíme o tom, co a jak v jednotlivých pracovních pozicích funguje a najdeme doporučení pro první seznámení a změny 
 - v druhém setkání ověříme, co a jak fungovalo, jaké možnosti lidé identifikovali, kde vidí příležitosti, překážky, náklady a otázky bezpečnosti. 
 
-** Pokud to chcete více formalizovaně **
+**Pokud to chcete více formalizovaně**
 
 #### První půlden (Day 1)
 
@@ -71,5 +68,7 @@ Sada doporučení, co zlepšit ve vaší firmě tak, aby byla připravena na poz
 | 12:30–12:45 | Kompetence a governance | Určení rolí, odpovědností a schvalovacích procesů | Rámec governance + kompetenční model |
 | 12:45–13:00 | Konsolidace akčního plánu | Finalizace postupu, přidělení zodpovědností | Akční plán verze 0.9 |
 
-Výsledkem worhshopu jsou cca 1-2 stránky A4 s tím, co jsme se o firmě dozvěděli a jak jsme se dohodli, že chceme pokračovat (nebo jaké směry chceme zkoumat).
+Písemným výstupem worhshopu jsou cca 1-2 stránky A4 s tím, co jsme se o firmě dozvěděli a jak jsme se dohodli, že chceme pokračovat (nebo jaké směry chceme zkoumat).
+
+
 
