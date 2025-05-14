@@ -7,6 +7,8 @@ permalink: /pripraveni-na-ai/
 
 Workshop se **zaměřuje** na zvyšování připravenosti firem na změny. Jaké změny? To ne vždy víme, ale rozhodně tušíme: pokračující digitalizace, AI, dost možná udržitelnost, schopnost dynamicky reagovat na okolní nestabilitu. 
 
+> „Workshop umožní firmě definovat a spustit konkrétní AI-pilot v horizontu 90 dnů.“
+
 Výsledkem workshopu nebude zázrak, kdy AI udělá všechno. Bude jím zvýšení digitální kvalifikace lidí ve směru, jaký vaše firma potřebuje. Akční plán, jímž se budete držet na špičce, ať už to bude jakákoliv špička. 
 
 Tento workshop je novinka, se kterou přicházíme na letní měsíce, kdy je ve firmách volněji a je prostor věnovat se přemýšlení o změnách. Workshop lze zatím objednávat v termínech 1.6.-21.9.2025 a probíhá v prostorech vaší společnosti. 
@@ -36,12 +38,6 @@ Sada doporučení, co zlepšit ve vaší firmě tak, aby byla připravena na poz
 
 ### Jak je workshop strukturovaný
 
-
-**Jde o dvě půldenní setkání**
-- v prvé řadě se pobavíme o tom, co a jak v jednotlivých pracovních pozicích funguje a najdeme doporučení pro první seznámení a změny 
-- v druhém setkání ověříme, co a jak fungovalo, jaké možnosti lidé identifikovali, kde vidí příležitosti, překážky, náklady a otázky bezpečnosti. 
-
-**Pokud to chcete více formalizovaně**
 
 #### První půlden (Day 1)
 
