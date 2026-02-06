@@ -404,6 +404,41 @@ nav {
   }
 }
 
+// Variant cards for workshop landing page
+.variant-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 20px 0 10px;
+
+  @include mobile {
+    grid-template-columns: 1fr;
+  }
+}
+
+.variant-card {
+  border: 1px solid $lightGray;
+  border-radius: 8px;
+  padding: 14px 16px 10px;
+  background: #fafafa;
+  text-align: left;
+}
+
+.variant-card h3 {
+  text-align: center;
+  margin-top: 0;
+}
+
+.variant-list {
+  margin: 10px 0 10px;
+  padding-left: 22px;
+}
+
+.variant-link {
+  font-weight: bold;
+  display: inline-block;
+}
+
 .wrapper-container {
   min-height: 100%;
   position: relative;

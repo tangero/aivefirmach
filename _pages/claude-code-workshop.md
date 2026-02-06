@@ -17,9 +17,38 @@ Krátký, praktický workshop pro CTO a seniorní vývojáře, kteří chtějí 
 
 ## Vyberte variantu
 
-- Startup: rychlost, MVP, minimální režie a maximalizace iterací. [Detail varianty](/claude-code-workshop/startup/)
-- Střední firma: vyvážení rychlosti a kvality, stabilní workflow a měřitelné přínosy. [Detail varianty](/claude-code-workshop/firma/)
-- Enterprise: governance, bezpečnost, kontrolované experimenty a predikovatelné výsledky. [Detail varianty](/claude-code-workshop/enterprise/)
+<div class="variant-grid">
+  <div class="variant-card">
+    <h3>Startup</h3>
+    <ul class="variant-list">
+      <li>Rychlé MVP a iterace bez zbytečné režie</li>
+      <li>Práce s nejasnou nebo chaotickou specifikací</li>
+      <li>Rychlé prototypování s Claude Code a Codex</li>
+      <li>Best practices a slepé cesty z praxe</li>
+    </ul>
+    <p><a class="variant-link" href="/claude-code-workshop/startup/">Detail varianty</a></p>
+  </div>
+  <div class="variant-card">
+    <h3>Firma</h3>
+    <ul class="variant-list">
+      <li>Workflow pro PR, testy a oponenturu návrhů</li>
+      <li>Vyvážení rychlosti a kvality v týmu</li>
+      <li>Prototypy bez dlouhodobého technického dluhu</li>
+      <li>Best practices a anti‑patterny</li>
+    </ul>
+    <p><a class="variant-link" href="/claude-code-workshop/firma/">Detail varianty</a></p>
+  </div>
+  <div class="variant-card">
+    <h3>Enterprise</h3>
+    <ul class="variant-list">
+      <li>Governance, bezpečnost a kontrolní body</li>
+      <li>Řízené MVP experimenty s metrikami</li>
+      <li>Integrace do enterprise pipeline</li>
+      <li>Rizika, mitigace a jasné odpovědnosti</li>
+    </ul>
+    <p><a class="variant-link" href="/claude-code-workshop/enterprise/">Detail varianty</a></p>
+  </div>
+</div>
 
 ## Jak workshop probíhá
 
