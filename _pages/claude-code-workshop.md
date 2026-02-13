@@ -15,6 +15,10 @@ Krátký, praktický workshop pro CTO a seniorní vývojáře, kteří chtějí 
 - Rychlé prototypování a experimenty
 - Best practices a slepé cesty, kterým se vyhnout
 
+## Kdo workshop vede
+
+Patrick Zandl (*1974) na počátku českého internetu v roce 1996 založil technické zpravodajství Mobil server, které později prodal iDNES. Následně vedl projekty jako Cinetik (český klon Netflixu) a TV Stream.cz (ještě před vznikem Youtube). V CZ.NIC vedl vývoj bezpečnostních řešení Turris a poslezé koordinoval vývoj v Prusa Research. Vývojem s pomocí AI se zabývá od prvopočátku této technologie, je intenzivním uživatelem Claude Code a Codex. Vytváří spolu s Davem (Gemini agent) a Mirjou (Claude agent) server [Vibecoding.cz](https://vibecoding.cz). Dnes se označuje za _terapeuta firemní AI implementace_, protože nesnáší označení jako _AI enthusiast_ 😇.
+
 ## Vyberte variantu
 
 <div class="variant-grid">
