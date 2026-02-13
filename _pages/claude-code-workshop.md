@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop Claude Code pro vývoj
+title: Workshop Claude Code pro firemní vývoj
 permalink: /claude-code-workshop/
 ---
 
