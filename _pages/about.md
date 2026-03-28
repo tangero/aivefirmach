@@ -4,7 +4,7 @@ title: O mně
 permalink: /about/
 ---
 
-## Patrick Zandl
+## [Patrick Zandl](https://cs.wikipedia.org/wiki/Patrick_Zandl)
 
 Narozen 1974 v Mnichově. Čtvrt století patřím mezi přední popularizátory moderních technologií v České republice.
 
@@ -19,6 +19,7 @@ Narozen 1974 v Mnichově. Čtvrt století patřím mezi přední popularizátory
 ### Publikace a vzdělávání
 
 - O moderních technologiích jsem napsal desítku knih, tisíce článků, proškolil stovky firem
+- Digitálním kurzem [Letní škola AI](https://skola.prolnuto.cz) prošlo přes 10 000 lidí
 - Nejnovější kniha [Mýty a naděje digitálního světa](https://www.melvil.cz/kniha-myty-a-nadeje-digitalniho-sveta/)
 - Pravidelný [newsletter](https://zandl.substack.com/) o dění ve světě technologií
 
