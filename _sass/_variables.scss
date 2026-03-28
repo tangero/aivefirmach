@@ -3,23 +3,38 @@
 // VARIABLES
 //
 
-// Colors — warm professional palette
-$accent: #b5541e;
-$accentHover: #963f10;
-$accentLight: #fdf6f0;
+// Primary palette — derived from "AI ve firmách 2026" PDF
+$navy-dark: #1c2836;       // Cover, header, footer
+$navy: #2b3d58;            // Headings on white
+$navy-light: #3d5474;      // Sub-headings
 
-// Neutrals
-$black: #1a1714;
-$darkerGray: #2d2a27;
-$darkGray: #3d3833;
-$gray: #6b6560;
-$mediumGray: #a09890;
-$lightGray: #e8e0d8;
-$lighterGray: #f5f2ee;
-$white: #fdfcfa;
+// Accent — hot pink/magenta from PDF
+$magenta: #e5186e;
+$magenta-hover: #c41060;
+$magenta-light: rgba(229, 24, 110, 0.08);
 
-// Legacy aliases (used throughout existing styles)
-$blue: $accent;
+// Callout — lavender from PDF tip blocks
+$lavender: #f0e8f7;
+$lavender-border: #c4a8e0;
+
+// Text
+$text-dark: #2b3040;
+$text-medium: #6b7080;
+$text-light: #9ba0ad;
+
+// Surfaces
+$white: #ffffff;
+$surface: #f7f5fa;
+$border: #e2dfe8;
+
+// Legacy aliases (used in existing partials)
+$black: $navy-dark;
+$darkerGray: $text-dark;
+$darkGray: $navy;
+$gray: $text-medium;
+$lightGray: $border;
+$blue: $magenta;
+$accent: $magenta;
 
 // Font stacks
 $headingFont: "Bricolage Grotesque", Georgia, serif;

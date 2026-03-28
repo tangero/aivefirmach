@@ -13,7 +13,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
-    <meta name="theme-color" content="#b5541e">
+    <meta name="theme-color" content="#1c2836">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon.ico">
     {% include analytics_head.html %}
   </head>
@@ -23,7 +23,7 @@
     <div id="bar"></div>
     <div class="wrapper-container">
       <div class="wrapper-masthead">
-        <div class="container">
+        <div class="container masthead-container">
           <header class="masthead clearfix">
             <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="Patrick Zandl" width="56" height="56" /></a>
 
@@ -46,6 +46,7 @@
           {{ content }}
         </div>
       </div>
+
 
       <div class="wrapper-footer">
         <div class="container">
