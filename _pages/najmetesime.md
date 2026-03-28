@@ -1,26 +1,32 @@
 ---
 layout: page
-title: Najměte si mě
+title: Konzultace a projekty
 permalink: /najmetesime/
 ---
 
-# Konzultace a projekty v AI?
+## AI konzultace pro vaši firmu
 
-Někdy nevíte, kam vás zavedou myšlenky, ale potřebujete průvodce na takovou cestu. Promluvit si o možnostech, validovat záměr, rozpracovat projekt v oblasti AI? 
+Někdy potřebujete průvodce, ne školení. Promluvit si o možnostech, validovat záměr, rozpracovat projekt v oblasti AI.
 
-Cenové vodítko je jednoduché. 
+### Co mohu nabídnout
 
-Sazba za pracovní den: 25 000 Kč bez DPH
+- **Audit AI připravenosti** -- kde stojíte, co vám chybí, kam se můžete posunout
+- **Strategické poradenství** -- jakou roli má AI hrát ve vašem podnikání
+- **Projektová spolupráce** -- rozpracování a vedení konkrétního AI projektu
+- **Školení na míru** -- přizpůsobené vašemu týmu a stacku
 
-Při delší spolupráci je možné cenu individualizovat. 
+### Reference
 
-Není to trochu moc? 
-- na tento web jste se dostali pravděpodobně v momentě, kdy jste zjistili, že není ve vašich silách problém vyřešit snadno a levně 
-- když nepomohlo několik hodin googlování a nemáte, komu projekt předat ve firmě, tak to můžete vzdát, nebo najmout odborníka
-- prošel jsem celou řadou slepých uliček, které mne stály hodně peněz a které nyní nebudete muset vy procházet
-- je pravděpodobné, že za tuto částku se podaří najít odpověď na vaši otázku
-- přičemž může být odpovědí i to, že otázka je mimo naše možnosti a realitu
+Projektová spolupráce s CZ.NIC, Prusa Research a dalšími.
 
-Projektové reference: CZ.NIC, z.s.p.o., Průša Research a.s.
+Vzdělávací projekty a komunitu pro vývojáře vedu na [Vibecoding.cz](https://vibecoding.cz).
 
-Pokud vás to zaujalo, stačí napsat na zandl@marigold.cz nebo psát/zavolat na 📞777677077 a dohodneme podrobnosti.
+<div class="cta-box">
+  <p class="cta-heading">Ozvěte se</p>
+  <p class="cta-contact">
+    <a href="mailto:patrick@zandl.cz" class="cta-link">patrick@zandl.cz</a>
+    <span class="cta-sep">&middot;</span>
+    <a href="tel:+420777677077" class="cta-link">+420 777 677 077</a>
+  </p>
+  <p class="cta-note">Popište svůj záměr a dohodneme se na dalším postupu.</p>
+</div>

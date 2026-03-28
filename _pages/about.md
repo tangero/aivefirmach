@@ -4,19 +4,22 @@ title: O mně
 permalink: /about/
 ---
 
-## Jmenuji se Patrick Zandl 
+## Patrick Zandl
 
-- narozen 26.8.1974 v západoněmeckém Mnichově
-- další životopisná data najdete na [Wikipedii](https://cs.wikipedia.org/wiki/Patrick_Zandl)
-- profesní životopis na [Linkedin](https://cz.linkedin.com/in/patrickzandl)
-- čtvrt století patřím mezi přední popularizátory moderních technologií
-- v roce 1996 jsem zakládal a dlouhá léta spoluvlastnil technické zpravodajské servery (Mobil server, Technet a jiné), dnes sdružené v rodině serverů iDNES
-- podnikal jsem v moderních technologiích, pracoval ve vedení vývojových i výrobních firem a také jako místostarosta
-- o moderních technologiích jsem napsal desítku knih, tisíce článků, proškolil stovky firem
-- dnes pracuji na AI projektech svých zákazníků
+Narozen 1974 v Mnichově. Čtvrt století patřím mezi přední popularizátory moderních technologií v České republice.
 
-Toto rozpětí pozic mi umožňuje vidět velmi široké přesahy jak mezi vývojem produktů, tak jejich praktickou výrobou a případné soužití s legislativou a se státní správou.
+### Profesní zkušenosti
 
-Moji nejnovější knihu věnovanou moderním technologiím nazvanou *Mýty a naděje digitálního světa* si můžete [koupit online](https://www.melvil.cz/kniha-myty-a-nadeje-digitalniho-sveta/) i v knihkupectví. 
+- V roce 1996 jsem zakládal technické zpravodajské servery (Mobil server, Technet), dnes sdružené v rodině iDNES
+- Podnikal jsem v moderních technologiích, pracoval ve vedení vývojových i výrobních firem
+- V CZ.NIC jsem vedl vývoj bezpečnostních řešení Turris
+- V Prusa Research jsem koordinoval vývoj
+- Dnes pracuji na AI projektech svých zákazníků a vedu vzdělávací komunitu [Vibecoding.cz](https://vibecoding.cz)
 
-Pravidelně vydávám [Patrickův newsletter](https://zandl.substack.com/) jako souhrn toho důležitého, co se ve světě technologií děje. Můžete si jej zdarma objednat. 
+### Publikace a vzdělávání
+
+- O moderních technologiích jsem napsal desítku knih, tisíce článků, proškolil stovky firem
+- Nejnovější kniha [Mýty a naděje digitálního světa](https://www.melvil.cz/kniha-myty-a-nadeje-digitalniho-sveta/)
+- Pravidelný [newsletter](https://zandl.substack.com/) o dění ve světě technologií
+
+Další životopisná data na [Wikipedii](https://cs.wikipedia.org/wiki/Patrick_Zandl) a [LinkedIn](https://www.linkedin.com/in/patrickzandl).

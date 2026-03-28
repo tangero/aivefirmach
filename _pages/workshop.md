@@ -4,21 +4,35 @@ title: Obsah workshopu
 permalink: /workshop/
 ---
 
-## Obsah workshopu
+## Jak workshop probíhá
 
-Jaký je obsah workshopu, jak probíhá?
+Před samotným workshopem projdu veřejně dostupné informace o vaší firmě -- rozvahy, produktové listy, obchodní prezentace. Workshop pak přizpůsobím přímo vašemu oboru a situaci.
 
-Před samotným workshopem je potřeba projít si detaily vaší firmy. Zpravidla postačí veřejně dostupné informace jako jsou rozvahy a výsledovky se Sbírky listin, produktové listy či obchodní presentace firmy nebo třeba veřejně publikovaná zpráva o činnosti společnosti či Zpráva pro akcionáře. 
+### Struktura
 
-- *první část workhshopu je obecný úvod* do toho, jak dnešní umělá inteligence funguje, jaká má omezení, silné a slabé stránky a třeba i to, co jsou to halucinace a předsudky v AI 
-- *v druhé části se průřezově seznámíme s dnes existujícímí nástroji*, které by vám mohly pomoci (dnes tak populární oblast generativní AI)
-- *ve třetí části* už se podíváme přímo na to, jaká řešení se používají ve vašem segmentu trhu
-- a v nejvíce *interaktivní čtvrté části* se pokusíme zamyslet společně nad tím, kde jsou příležitosti a kde hrozby AI pro vaši společnost a váš tržní segment
+- **Úvod do AI** -- jak dnešní umělá inteligence funguje, jaká má omezení, silné a slabé stránky, co jsou halucinace a předsudky v AI
+- **Průřez nástroji** -- existující AI nástroje, které by vám mohly pomoci, od generativní AI po specializované oborové řešení
+- **Váš segment trhu** -- jaká řešení se používají ve vašem oboru, co dělá konkurence
+- **SWOT analýza** -- interaktivní část, kde společně zmapujeme příležitosti a hrozby AI pro vaši firmu
 
-Délka trvání workshopu jsou cca 3-4 hodiny, počítejte prostě půlden a dvě krátké přestávky, aby se lidé občerstvili a protáhli. 
+### Formát
 
-Všechny části jsou přizpůsobené hloubce znalostí účastníků workshopu a jejich potřebám. Můžeme si povídat stejně tak o tom, jak správně zadat optimální "prompt" do ChatGPT, jako můžeme zkusit na míru nakonfigurovat LLAMA engine nebo ohnout existující služby analýzy dokumentů tak, aby uměly napovídat vašim lidem, co máte napsáno ve smlouvách. 
+- **Celodenní workshop** (6--8 hodin) -- kompletní program včetně gap analýzy a follow-up materiálů
+- **Kratší workshop** (2--3 hodiny) -- zaměřený na konkrétní téma nebo úvod do problematiky
+- Maximálně 10 účastníků pro interaktivní formát
+- Preferenčně u vás ve firmě
 
-Výsledkem workshopu by měla být SWOT analýza AI pro vaši firmu a lepší představa o tom, na co může firma na domácím a především na zahraničním trhu narážet a naopak, co by ji mohlo posílit.  
+Všechny části přizpůsobuji hloubce znalostí účastníků. Můžeme se bavit o správném zadávání promptů do ChatGPT stejně jako o konfiguraci vlastních AI řešení na míru.
 
-*Mimochodem, chcete vědět, proč tento web vypadá, jak vypadá? [Vysvětlení je v AI!](/proc/)*
+Výstupem je SWOT analýza AI pro vaši firmu a konkrétní plán dalších kroků.
+
+## Kontakt
+
+<div class="cta-box">
+  <p class="cta-contact">
+    <a href="mailto:patrick@zandl.cz" class="cta-link">patrick@zandl.cz</a>
+    <span class="cta-sep">&middot;</span>
+    <a href="tel:+420777677077" class="cta-link">+420 777 677 077</a>
+  </p>
+  <p class="cta-note">Napište a dohodneme rozsah a termín.</p>
+</div>

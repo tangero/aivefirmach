@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Workshopy AI ve firmách
+name: Patrick Zandl
 
 # Name of the author
 author: Patrick Zandl
 
 # Short bio or description (displayed in the header)
-description: co vaše firma potřebuje vědět o umělé inteligenci
+description: AI poradenství a workshopy pro firmy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/patrick.jpg
@@ -21,7 +21,7 @@ avatar: /images/patrick.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: zandl@marigold.cz
+  email: patrick@zandl.cz
   facebook: patrick.zandl
   flickr:
   github: 

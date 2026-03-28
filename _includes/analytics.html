@@ -1,23 +1,6 @@
-{% if site.google_analytics %}
-	<!-- Google Analytics -->
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		ga('create', '{{ site.google_analytics }}', 'auto');
-		ga('send', 'pageview', {
-		  'page': '{{ site.baseurl }}{{ page.url }}',
-		  'title': '{{ page.title | replace: "'", "\\'" }}'
-		});
-	</script>
-	<!-- End Google Analytics -->
-{% endif %}
-
-<!-- 100% privacy-first analytics -->
- <a title="Privacy-friendly Web Analytics" href="https://clicky.com/101452826"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<!-- Clicky analytics -->
 <script async data-id="101452826" src="//static.getclicky.com/js"></script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101452826ns.gif" /></p></noscript>+
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101452826ns.gif" /></p></noscript>
+<!-- Simple Analytics -->
 <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/></noscript>
